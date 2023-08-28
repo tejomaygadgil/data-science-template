@@ -1,10 +1,12 @@
 Data Science Template
 ==============================
-# Introduction
+Introduce your project.
 
 # Implementation
+Give a summary of model architecture.
 
 # Results
+Explain training loop and test results.
 
 # Build instructions
 ## 1. Set environment
