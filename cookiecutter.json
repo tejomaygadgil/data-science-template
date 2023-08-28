@@ -1,5 +1,5 @@
 {
-    "project_name": "project-name",
-    "author_name": "Your Name",
+    "project_name": "Project Name",
+    "author_name": "Author Name",
     "compatible_python_versions": "^3.9"
 }
