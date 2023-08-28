@@ -1,4 +1,4 @@
-# Data Science `cookiecutter` Template
+# Data Science Cookie Cutter Template 🍪
 Start your own Data Science project using this [`cookiecutter`](https://github.com/cookiecutter/cookiecutter) template.
 
 ## Instructions
